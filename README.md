@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberthunderstorm" alt="cyberthunderstorm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thunderhsot" target="blank"><img src="https://img.shields.io/twitter/follow/thunderhsot?logo=twitter&style=for-the-badge" alt="thunderhsot" /></a> </p>
 
 - 🌱 I’m currently learning **Java, x86 Assembly, compiler theory**
 
@@ -15,6 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/thunderhsot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thunderhsot" height="30" width="40" /></a>
+<a href="https://medium.com/@thunderhsot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thunderhsot" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thunderhsot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thunderhsot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
