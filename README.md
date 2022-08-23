@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jack CHipofya</h1>
+<h1 align="center">Hi 👋, I'm Jack Chipofya</h1>
 <h3 align="center">Web developer and cyber security researcher from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberthunderstorm&label=Profile%20views&color=0e75b6&style=flat" alt="cyberthunderstorm" /> </p>
